@@ -49,3 +49,10 @@ CMC API Hackathon Round 2: https://coinmarketcap.com/api/resources/api-hackathon
 - Not the full market; top-N sample selection and stablecoin heuristics bias breadth.
 - Stated BTC cap ratio is **sample** dominance only, not official CMC total-market dominance.
 - JSON fixture was faithfully transcribed from the browser-visible public CMC API response. It contains only public market data; no login or keys.
+
+## Public demonstration
+
+- [Read-only GitHub Pages dashboard](https://luxedigitalnest.github.io/ldn-cmc-market-radar/) — a historical 20 November 2026 API snapshot, **not a live price feed**.
+- Ten automated unit tests are available locally with `python -m unittest discover -s tests -v`. The current GitHub credentials cannot publish workflow files, so CI is not enabled.
+
+The project is public code and a demo; it has **not been submitted to or accepted by DoraHacks**. GitHub deployment does not imply a prize or eligibility.
