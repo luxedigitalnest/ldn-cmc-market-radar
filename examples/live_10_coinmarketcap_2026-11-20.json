@@ -1,0 +1,169 @@
+{
+  "status": {
+    "timestamp": "2026-11-20T14:26:22.165Z",
+    "error_code": "0",
+    "error_message": ""
+  },
+  "data": [
+    {
+      "id": 1,
+      "cmc_rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "quote": [
+        {
+          "symbol": "USD",
+          "price": 61993.04953088309,
+          "percent_change_24h": -2.866769671533,
+          "percent_change_7d": -10.391857507947,
+          "market_cap": 1246955103247.679,
+          "volume_24h": 43267288434.3781
+        }
+      ]
+    },
+    {
+      "id": 1027,
+      "cmc_rank": 2,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "quote": [
+        {
+          "symbol": "USD",
+          "price": 1753.4481294240948,
+          "percent_change_24h": -2.922694404299,
+          "percent_change_7d": -10.577239227569,
+          "market_cap": 214334937378.75958,
+          "volume_24h": 13471137218.973446
+        }
+      ]
+    },
+    {
+      "id": 825,
+      "cmc_rank": 3,
+      "name": "Tether USDt",
+      "symbol": "USDT",
+      "quote": [
+        {
+          "symbol": "USD",
+          "price": 0.9989606426139941,
+          "percent_change_24h": 0.008791041147,
+          "percent_change_7d": -0.003052757985,
+          "market_cap": 175063910787.94412,
+          "volume_24h": 69714795378.24408
+        }
+      ]
+    },
+    {
+      "id": 1839,
+      "cmc_rank": 4,
+      "name": "BNB",
+      "symbol": "BNB",
+      "quote": [
+        {
+          "symbol": "USD",
+          "price": 569.972930195189,
+          "percent_change_24h": -3.746893046857,
+          "percent_change_7d": -11.083141457053,
+          "market_cap": 74957304447.26157,
+          "volume_24h": 1129612917.8786416
+        }
+      ]
+    },
+    {
+      "id": 3408,
+      "cmc_rank": 5,
+      "name": "USDC",
+      "symbol": "USDC",
+      "quote": [
+        {
+          "symbol": "USD",
+          "price": 0.9998825309929522,
+          "percent_change_24h": 0.009574471942,
+          "percent_change_7d": 0.007809908837,
+          "market_cap": 68373286527.94337,
+          "volume_24h": 16629492210.035412
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "cmc_rank": 6,
+      "name": "XRP",
+      "symbol": "XRP",
+      "quote": [
+        {
+          "symbol": "USD",
+          "price": 0.9501251766481521,
+          "percent_change_24h": -4.059058233177,
+          "percent_change_7d": -7.777884694466,
+          "market_cap": 60348727401.31037,
+          "volume_24h": 2308993376.586852
+        }
+      ]
+    },
+    {
+      "id": 5426,
+      "cmc_rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "quote": [
+        {
+          "symbol": "USD",
+          "price": 71.42511770880346,
+          "percent_change_24h": -4.798383063676,
+          "percent_change_7d": -12.153353660346,
+          "market_cap": 42277006520.46829,
+          "volume_24h": 2787560131.567187
+        }
+      ]
+    },
+    {
+      "id": 1958,
+      "cmc_rank": 8,
+      "name": "TRON",
+      "symbol": "TRX",
+      "quote": [
+        {
+          "symbol": "USD",
+          "price": 0.30551159067711303,
+          "percent_change_24h": -2.15499523816,
+          "percent_change_7d": -2.499327760457,
+          "market_cap": 29038462283.402817,
+          "volume_24h": 451308129.10752904
+        }
+      ]
+    },
+    {
+      "id": 32196,
+      "cmc_rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "quote": [
+        {
+          "symbol": "USD",
+          "price": 63.267057764085415,
+          "percent_change_24h": -7.613974722132,
+          "percent_change_7d": -14.929499145458,
+          "market_cap": 15968216634.539972,
+          "volume_24h": 1247470953.8766072
+        }
+      ]
+    },
+    {
+      "id": 1437,
+      "cmc_rank": 10,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "quote": [
+        {
+          "symbol": "USD",
+          "price": 818.3748486544548,
+          "percent_change_24h": -13.28933022056,
+          "percent_change_7d": -15.10318523212,
+          "market_cap": 13891583117.201624,
+          "volume_24h": 999555317.1821926
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "title": "LDN CoinMarketCap Market Radar",
+  "source": "https://pro-api.coinmarketcap.com/public-api/v3/cryptocurrency/listings/latest",
+  "source_timestamp_utc": "2026-11-20T14:26:22.165Z",
+  "processed_timestamp_utc": "2026-11-20T14:30:14.208767+00:00",
+  "coverage": {
+    "listings_received": 10,
+    "valid_assets": 10,
+    "nonstable_with_change": 8,
+    "excluded_stablecoins": 2
+  },
+  "breadth": {
+    "up_24h": 0,
+    "down_24h": 8,
+    "flat_24h": 0,
+    "up_fraction": 0.0,
+    "median_change_24h_pct": -3.902975640017,
+    "mean_change_24h_pct": -5.18151232504925
+  },
+  "btc_sample_cap_share_pct": 73.44658689377577,
+  "regime_description": "Broad 24h declines (sample)",
+  "decliners": [
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "rank": 10,
+      "price_usd": 818.3748486544548,
+      "market_cap_usd": 13891583117.201624,
+      "volume_24h_usd": 999555317.1821926,
+      "change_24h_pct": -13.28933022056,
+      "change_7d_pct": -15.10318523212,
+      "stablecoin_excluded": false
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "rank": 9,
+      "price_usd": 63.267057764085415,
+      "market_cap_usd": 15968216634.539972,
+      "volume_24h_usd": 1247470953.8766072,
+      "change_24h_pct": -7.613974722132,
+      "change_7d_pct": -14.929499145458,
+      "stablecoin_excluded": false
+    },
+    {
+      "name": "Solana",
+      "symbol": "SOL",
+      "rank": 7,
+      "price_usd": 71.42511770880346,
+      "market_cap_usd": 42277006520.46829,
+      "volume_24h_usd": 2787560131.567187,
+      "change_24h_pct": -4.798383063676,
+      "change_7d_pct": -12.153353660346,
+      "stablecoin_excluded": false
+    },
+    {
+      "name": "XRP",
+      "symbol": "XRP",
+      "rank": 6,
+      "price_usd": 0.9501251766481521,
+      "market_cap_usd": 60348727401.31037,
+      "volume_24h_usd": 2308993376.586852,
+      "change_24h_pct": -4.059058233177,
+      "change_7d_pct": -7.777884694466,
+      "stablecoin_excluded": false
+    },
+    {
+      "name": "BNB",
+      "symbol": "BNB",
+      "rank": 4,
+      "price_usd": 569.972930195189,
+      "market_cap_usd": 74957304447.26157,
+      "volume_24h_usd": 1129612917.8786416,
+      "change_24h_pct": -3.746893046857,
+      "change_7d_pct": -11.083141457053,
+      "stablecoin_excluded": false
+    }
+  ],
+  "advancers": [
+    {
+      "name": "TRON",
+      "symbol": "TRX",
+      "rank": 8,
+      "price_usd": 0.30551159067711303,
+      "market_cap_usd": 29038462283.402817,
+      "volume_24h_usd": 451308129.10752904,
+      "change_24h_pct": -2.15499523816,
+      "change_7d_pct": -2.499327760457,
+      "stablecoin_excluded": false
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "rank": 1,
+      "price_usd": 61993.04953088309,
+      "market_cap_usd": 1246955103247.679,
+      "volume_24h_usd": 43267288434.3781,
+      "change_24h_pct": -2.866769671533,
+      "change_7d_pct": -10.391857507947,
+      "stablecoin_excluded": false
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "rank": 2,
+      "price_usd": 1753.4481294240948,
+      "market_cap_usd": 214334937378.75958,
+      "volume_24h_usd": 13471137218.973446,
+      "change_24h_pct": -2.922694404299,
+      "change_7d_pct": -10.577239227569,
+      "stablecoin_excluded": false
+    },
+    {
+      "name": "BNB",
+      "symbol": "BNB",
+      "rank": 4,
+      "price_usd": 569.972930195189,
+      "market_cap_usd": 74957304447.26157,
+      "volume_24h_usd": 1129612917.8786416,
+      "change_24h_pct": -3.746893046857,
+      "change_7d_pct": -11.083141457053,
+      "stablecoin_excluded": false
+    },
+    {
+      "name": "XRP",
+      "symbol": "XRP",
+      "rank": 6,
+      "price_usd": 0.9501251766481521,
+      "market_cap_usd": 60348727401.31037,
+      "volume_24h_usd": 2308993376.586852,
+      "change_24h_pct": -4.059058233177,
+      "change_7d_pct": -7.777884694466,
+      "stablecoin_excluded": false
+    }
+  ],
+  "assets": [
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "rank": 1,
+      "price_usd": 61993.04953088309,
+      "market_cap_usd": 1246955103247.679,
+      "volume_24h_usd": 43267288434.3781,
+      "change_24h_pct": -2.866769671533,
+      "change_7d_pct": -10.391857507947,
+      "stablecoin_excluded": false
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "rank": 2,
+      "price_usd": 1753.4481294240948,
+      "market_cap_usd": 214334937378.75958,
+      "volume_24h_usd": 13471137218.973446,
+      "change_24h_pct": -2.922694404299,
+      "change_7d_pct": -10.577239227569,
+      "stablecoin_excluded": false
+    },
+    {
+      "name": "Tether USDt",
+      "symbol": "USDT",
+      "rank": 3,
+      "price_usd": 0.9989606426139941,
+      "market_cap_usd": 175063910787.94412,
+      "volume_24h_usd": 69714795378.24408,
+      "change_24h_pct": 0.008791041147,
+      "change_7d_pct": -0.003052757985,
+      "stablecoin_excluded": true
+    },
+    {
+      "name": "BNB",
+      "symbol": "BNB",
+      "rank": 4,
+      "price_usd": 569.972930195189,
+      "market_cap_usd": 74957304447.26157,
+      "volume_24h_usd": 1129612917.8786416,
+      "change_24h_pct": -3.746893046857,
+      "change_7d_pct": -11.083141457053,
+      "stablecoin_excluded": false
+    },
+    {
+      "name": "USDC",
+      "symbol": "USDC",
+      "rank": 5,
+      "price_usd": 0.9998825309929522,
+      "market_cap_usd": 68373286527.94337,
+      "volume_24h_usd": 16629492210.035412,
+      "change_24h_pct": 0.009574471942,
+      "change_7d_pct": 0.007809908837,
+      "stablecoin_excluded": true
+    },
+    {
+      "name": "XRP",
+      "symbol": "XRP",
+      "rank": 6,
+      "price_usd": 0.9501251766481521,
+      "market_cap_usd": 60348727401.31037,
+      "volume_24h_usd": 2308993376.586852,
+      "change_24h_pct": -4.059058233177,
+      "change_7d_pct": -7.777884694466,
+      "stablecoin_excluded": false
+    },
+    {
+      "name": "Solana",
+      "symbol": "SOL",
+      "rank": 7,
+      "price_usd": 71.42511770880346,
+      "market_cap_usd": 42277006520.46829,
+      "volume_24h_usd": 2787560131.567187,
+      "change_24h_pct": -4.798383063676,
+      "change_7d_pct": -12.153353660346,
+      "stablecoin_excluded": false
+    },
+    {
+      "name": "TRON",
+      "symbol": "TRX",
+      "rank": 8,
+      "price_usd": 0.30551159067711303,
+      "market_cap_usd": 29038462283.402817,
+      "volume_24h_usd": 451308129.10752904,
+      "change_24h_pct": -2.15499523816,
+      "change_7d_pct": -2.499327760457,
+      "stablecoin_excluded": false
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "rank": 9,
+      "price_usd": 63.267057764085415,
+      "market_cap_usd": 15968216634.539972,
+      "volume_24h_usd": 1247470953.8766072,
+      "change_24h_pct": -7.613974722132,
+      "change_7d_pct": -14.929499145458,
+      "stablecoin_excluded": false
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "rank": 10,
+      "price_usd": 818.3748486544548,
+      "market_cap_usd": 13891583117.201624,
+      "volume_24h_usd": 999555317.1821926,
+      "change_24h_pct": -13.28933022056,
+      "change_7d_pct": -15.10318523212,
+      "stablecoin_excluded": false
+    }
+  ],
+  "caveats": [
+    "This is a top-N sample, NOT the full market. Sample BTC cap share is NOT the official BTC dominance figure.",
+    "Stablecoins excluded from breadth by ticker; classification is a heuristic, not a complete peg registry.",
+    "Data freshness comes from the original CMC response timestamp; numbers change between calls.",
+    "Descriptive tool only; no buy/sell signals, account credentials, positions or order placement."
+  ]
+}
