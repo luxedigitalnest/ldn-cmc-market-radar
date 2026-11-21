@@ -60,3 +60,4 @@ The project is public code and a demo; it has **not been submitted to or accepte
 ## Round 2 hackathon dossier
 
 See [evidence-first submission pack and readiness checklist](HACKATHON_SUBMISSION.md). This is **preparation**, not a confirmed DoraHacks entry.
+\n## CMC Round 2 demo video (actual browser capture)\n\n[Watch the 72-second original project demonstration](media/LDN_Crypto_Market_Radar_Genuine_Demo.mp4). It shows the real local generated dashboard, the recorded 2026-11-20 CMC data snapshot, and actual Python unit-test output. No live browser API call, award, or trading transaction is implied.\n\nThe reproducible recording pipeline is in [make_actual_demo.py](make_actual_demo.py), with offline replay and test verification; the male narration uses the built-in Windows Speech API in [make_narration.ps1](make_narration.ps1).\n
