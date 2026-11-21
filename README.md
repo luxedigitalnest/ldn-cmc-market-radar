@@ -56,3 +56,7 @@ CMC API Hackathon Round 2: https://coinmarketcap.com/api/resources/api-hackathon
 - Ten automated unit tests are available locally with `python -m unittest discover -s tests -v`. The current GitHub credentials cannot publish workflow files, so CI is not enabled.
 
 The project is public code and a demo; it has **not been submitted to or accepted by DoraHacks**. GitHub deployment does not imply a prize or eligibility.
+
+## Round 2 hackathon dossier
+
+See [evidence-first submission pack and readiness checklist](HACKATHON_SUBMISSION.md). This is **preparation**, not a confirmed DoraHacks entry.
