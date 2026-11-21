@@ -3,13 +3,21 @@
 **Project:** LDN Crypto Market Radar  
 **Team:** LuxeDigitalNest (independent builder)  
 **Track:** Data and Visualisation  
-**Status (2026-11-21):** Public, working historical-data demonstration and source code; **NOT YET REGISTERED OR SUBMITTED** to the CoinMarketCap Round 2 DoraHacks hackathon. No award claimed.
+**Status (2026-11-21):** Public, working historical-data demonstration and source code; **REGISTERED AND SUBMITTED** to the CoinMarketCap Round 2 DoraHacks hackathon. The official entry is **Under Review**. No award or judging acceptance claimed.
 
-## Project summary (submission-ready draft)
+## Project summary (submitted)
 
 LDN Crypto Market Radar is a small, open-source, reproducible market-breadth research tool built around the official CoinMarketCap Keyless Public API. Instead of implying that top-coin prices constitute financial advice, it calculates an explicitly sample-based market view: the proportion of non-stablecoin assets up or down over the previous 24 hours, median daily change, asset ranking and a BTC market-cap share *within the fetched sample*. It can fetch a current API response through a Python standard-library CLI, or replay a saved authentic API response to make testing and reviewing deterministic.
 
 The published GitHub Pages demo is a timestamped **20 November 2026 snapshot**, not a live browser feed. For current data, run the CLI on a machine with internet access.
+
+## Submission confirmation (November 21, 2026)
+
+- **DoraHacks Build (Under Review):** https://dorahacks.io/build/51492
+- **Official Round 2 event:** https://dorahacks.io/hackathon/coinmarketcap-api-202611/build
+- **Original demo video:** https://github.com/luxedigitalnest/ldn-cmc-market-radar/blob/main/media/LDN_Crypto_Market_Radar_Genuine_Demo.mp4
+- **Original X announcement:** https://x.com/LuxeDigitalNest/status/2124085478773182854
+- **Confirmation:** authenticated DoraHacks says `Build Submitted!` and `Under Review`; successful event publish-buidl HTTP 200. This is **submission**, not a win.
 
 ## Links
 
@@ -62,14 +70,14 @@ Market-breadth snapshots often hide their selection bias. This demo makes the sa
 - [x] Actual timestamped API response fixture with real response fields
 - [x] Published GitHub Pages demonstration of historical snapshot
 - [x] Local reproduction and unit-test commands
-- [ ] Verify the target CMC account email for temporary Startup API access
-- [ ] Register existing @luxedigitalnest DoraHacks account for **CMC Round 2**, confirm registration receipt
+- [x] Match the registered CMC API account email to the event registration. Startup-tier promotional upgrade remains unverified.
+- [x] Register existing @luxedigitalnest DoraHacks account for **CMC Round 2**, confirmation from authenticated event UI and HTTP 200
 - [ ] If the judges require an **account-specific Pro API key**, implement a *server-side, secret-protected* call; never publish the key. Do not misrepresent the keyless API as the authenticated Pro API.
-- [ ] Capture an original, audible/readable, short screencast showing the code, one real API response, and the working rendered dashboard
-- [ ] Create the DoraHacks BUIDL draft and obtain a public submission URL
-- [ ] Publish one original X post linking the **actual DoraHacks submission and demo recording**, tagged `#BuildwithCMC`; copy its verified URL into DoraHacks
-- [ ] Submit and verify DoraHacks receipt before the organizer's stricter **2026-12-09 23:59 UTC** deadline (DoraHacks displays 19:00 UTC−5, exactly 2026-12-10 00:00 UTC; do not rely on that extra minute)
-- [ ] Record final entry link, submitted status and judged result, without inventing prizes
+- [x] Produce original 72-second browser-capture video with actual data replay, rendered dashboard and 10 passing tests; male synthetic narration (Microsoft David), no third-party music
+- [x] Create public DoraHacks BUIDL at https://dorahacks.io/build/51492 including GitHub, GitHub Pages and original video
+- [x] Publish the original @LuxeDigitalNest X post linking the BUIDL and demo video, tagged `#BuildwithCMC`; verify post URL https://x.com/LuxeDigitalNest/status/2124085478773182854
+- [x] Submit BUIDL under **Data and Visualisation** and verify DoraHacks response **Build Submitted! / Under Review**, HTTP 200 (November 21, 2026), ahead of the organizer's Dec 9 deadline.
+- [x] Record final entry link and submitted/Under Review status, with independent GitHub and X evidence.\n- [ ] Await judging/award decision: no prize, ranking, or prize eligibility has yet been verified.
 
 **Prizes:** The headline value is mainly API subscriptions and physical merchandise, not a $10,000 cash prize. Registration alone does not imply a prize or an accepted entry.
 
