@@ -29,6 +29,10 @@ The published GitHub Pages demo is a timestamped **20 November 2026 snapshot**, 
 - DoraHacks event: https://dorahacks.io/hackathon/coinmarketcap-api-202611
 - DoraHacks build entry: https://dorahacks.io/hackathon/coinmarketcap-api-202611/build
 
+## 25 November 2026 CET verification
+
+The signed-in [official event Builds page](https://dorahacks.io/hackathon/coinmarketcap-api-202611/build) lists BUIDL #51492 as **Under Review**. A direct browser GET to the ten-listing keyless endpoint returned HTTP 200, CMC error code `0`, ten listings and ten finite numeric USD price quotes in the quote arrays. CMC source timestamp: `2026-11-24T23:41:26.037Z`. This was a read-only endpoint check; the existing static Pages dashboard and original video were not refreshed, no API key or reward was obtained, and no new submission was made.
+
 ## Exact CMC API usage
 
 Provider: CoinMarketCap **Keyless Public API**.  
@@ -77,7 +81,8 @@ Market-breadth snapshots often hide their selection bias. This demo makes the sa
 - [x] Create public DoraHacks BUIDL at https://dorahacks.io/build/51492 including GitHub, GitHub Pages and original video
 - [x] Publish the original @LuxeDigitalNest X post linking the BUIDL and demo video, tagged `#BuildwithCMC`; verify post URL https://x.com/LuxeDigitalNest/status/2124085478773182854
 - [x] Submit BUIDL under **Data and Visualisation** and verify DoraHacks response **Build Submitted! / Under Review**, HTTP 200 (November 21, 2026), ahead of the organizer's Dec 9 deadline.
-- [x] Record final entry link and submitted/Under Review status, with independent GitHub and X evidence.\n- [ ] Await judging/award decision: no prize, ranking, or prize eligibility has yet been verified.
+- [x] Record final entry link and submitted/Under Review status, with independent GitHub and X evidence.
+- [ ] Await judging/award decision: no prize, ranking, or prize eligibility has yet been verified.
 
 **Prizes:** The headline value is mainly API subscriptions and physical merchandise, not a $10,000 cash prize. Registration alone does not imply a prize or an accepted entry.
 
